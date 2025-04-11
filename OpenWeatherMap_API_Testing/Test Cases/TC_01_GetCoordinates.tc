@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_01_GetCoordinates</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>836bb0f0-1b6e-450e-b65d-6e9f44f73f61</testCaseGuid>
+</TestCaseEntity>

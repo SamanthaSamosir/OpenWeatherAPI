@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'cc270a8bff7a8e0cc422083f43d8419b'</initValue>
+      <name>API_KEY</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Jakarta Selatan'</initValue>
+      <name>CITY_NAME</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'-6.28381815'</initValue>
+      <name>LATITUDE</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'106.80486324917382'</initValue>
+      <name>LONGITUDE</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>
