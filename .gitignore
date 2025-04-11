@@ -1,0 +1,6 @@
+bin/
+Libs/
+Reports/
+.classpath
+.project
+.settings/
